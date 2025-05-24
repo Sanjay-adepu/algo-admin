@@ -9,7 +9,7 @@ const modalStyles = {
     top: 0,
     left: 0,
     width: '100vw',
-    height: '100vh',
+    height: '106vh',
     backgroundColor: 'rgba(0,0,0,0.6)',
     display: 'flex',
     justifyContent: 'center',
