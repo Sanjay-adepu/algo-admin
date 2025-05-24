@@ -100,7 +100,7 @@ const AdminDashboard = () => {
       <div className="admin-container">
         <h1>Algotronn Admin</h1>
 
-    <h3>Order details by order Id <h3>
+    <h3>Order details by order Id </h3>
 
         <div style={{ marginBottom: 20 }}>
           <input
