@@ -14,6 +14,7 @@ const modalStyles = {
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
+paddingBottom: '40px',
     zIndex: 9999,
   },
   modal: {
