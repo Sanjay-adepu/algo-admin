@@ -100,6 +100,8 @@ const AdminDashboard = () => {
       <div className="admin-container">
         <h1>Algotronn Admin</h1>
 
+    <h3>Order details by order Id <h3>
+
         <div style={{ marginBottom: 20 }}>
           <input
             type="text"
@@ -110,7 +112,7 @@ const AdminDashboard = () => {
           />
           <button onClick={fetchOrderDetails} style={{ padding: '8px 12px' }}>Get Order Details</button>
         </div>
-<h2>Order List of all dates </h2>
+<h2>Orders of all dates </h2>
 
         <OrderFilterForm onSearchByStatus={fetchOrders} />
 
